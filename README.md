@@ -1,2 +1,3 @@
 # nyc-airbnb-price-prediction
-An end-to-end Python data science project predicting Airbnb rental values through feature engineering, EDA, and regression modeling.
+Project Description 
+This project focuses on a complete machine learning process to predict Airbnb listing prices in New York City. It uses a dataset of more than 48,000 listings. The analysis looks into the main factors influencing rental prices, such as location, room type, and host activity. The project includes thorough data cleaning, feature engineering, and testing various regression algorithms. The final Random Forest Regressor effectively captures non-linear relationships, achieving an R² score of 0.6465. This provides useful, data-driven pricing strategies for property hosts.
