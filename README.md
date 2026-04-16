@@ -8,6 +8,8 @@ The goal of this project is to build a machine learning regression model to pred
 * **Size:** 48,895 unique listings
 * **Key Features:** Location coordinates (latitude/longitude), neighbourhood groups, room type, minimum nights, availability (365 days), reviews per month, and host listing counts.
 
+**Note:** Due to GitHub's file size limits, the trained Random Forest model (.pkl) is too large to host directly. Download the trained model [here](https://drive.google.com/file/d/1-3yYZcwRaOrjLC61ih1kCgo4BFOf8C6G/view?usp=drive_link).
+  
 ## 🛠️ Tools & Technologies Used
 * **Programming Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
