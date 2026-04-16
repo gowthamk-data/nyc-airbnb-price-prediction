@@ -36,13 +36,13 @@ The **Random Forest Regressor** emerged as the best-performing model, successful
 *(Note to self: Replace the placeholder links below with the actual paths to your saved charts in the `images/` folder before publishing.)*
 
 ### 1. Geospatial Pricing Clusters
-![Location Clustering](images/placeholder_location_cluster.png)
+![Location Clustering](images/kmeans_clustering_nyc.png)
 *KMeans clustering of NYC Airbnb properties based on latitude and longitude.*
 
 ### 2. Feature Importance
-![Feature Importance](images/placeholder_feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 *Top features driving Airbnb prices according to the Random Forest model.*
 
 ### 3. Actual vs. Predicted Prices
-![Model Performance](images/placeholder_actual_vs_predicted.png)
+![Model Performance](images/rf_actual_vs_predicted.png)
 *Scatter plot showcasing the accuracy of the Random Forest Regressor on test data.*
