@@ -35,7 +35,6 @@ The **Random Forest Regressor** emerged as the best-performing model, successful
 * **Visibility Matters:** Listings with high availability and active review engagement signal higher demand, impacting the optimal price point.
 
 ## 📸 Screenshots & Visualizations
-*(Note to self: Replace the placeholder links below with the actual paths to your saved charts in the `images/` folder before publishing.)*
 
 ### 1. Geospatial Pricing Clusters
 ![Location Clustering](images/kmeans_clustering_nyc.png)
