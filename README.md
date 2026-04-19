@@ -26,8 +26,6 @@ The goal of this project is to build a machine learning regression model to pred
 
 ## 🏆 Key Insights & Results
 The **Random Forest Regressor** emerged as the best-performing model, successfully capturing the non-linear relationships within the data.
-* **R² Score:** `0.6465`
-* **RMSE:** `0.3886`
 
 **Business Takeaways:**
 * **Location is King:** The location cluster (particularly proximity to prime areas like Manhattan) is the most dominant factor influencing price.
